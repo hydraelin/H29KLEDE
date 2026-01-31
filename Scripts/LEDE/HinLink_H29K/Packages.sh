@@ -86,7 +86,7 @@ UPDATE_VERSION() {
 
 # 调用 示例
 UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
-UPDATE_PACKAGE "qmodem" "FUjr/modem_feeds" "main"
+# UPDATE_PACKAGE "qmodem" "FUjr/modem_feeds" "main"
 UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
 # 更新软件包版本
 UPDATE_VERSION "sing-box"
